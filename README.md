@@ -1,3 +1,5 @@
 # Internship-Projects
 
 1. House Price Prediction System Using Data Analytics Algorithms: In this task, I have  delve into the realm of real estate data analysis. My goal is be to develop a predictive model that can accurately forecast house prices based on various factors. This project will involve data collection, preprocessing, feature engineering, model selection, and evaluation.
+2. E-commerce Product Recommendation System:This prject includes  recommendation engine for our e-commerce platform. Utilizing customer behavior data and machine learning techniques, I design a system capable of suggesting personalized product recommendations to users, enhancing their shopping experience and increasing sales. In this project i have used Amazon Sale dataset from Kaggle 
+3. Social Media Sentiment Analysis: This project involves analyzing sentiment from social media data. Project includes techniques to extract, process, and analyze textual data from platform Twitter. Objective is to classify user sentiments as positive, negative, or neutral, providing valuable insights for brand reputation management and market research.
